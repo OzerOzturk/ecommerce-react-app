@@ -8,7 +8,7 @@
 
  ## Deployment
 
-* https://ciceksepeti-react.netlify.app/
+* https://eticaret-react.netlify.app/ 
 
 ## Screenshots
 
