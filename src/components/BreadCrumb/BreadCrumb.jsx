@@ -6,8 +6,8 @@ const BreadCrumb = () => {
 
   return (
     <div className="breadcrumb container">
-      <a href="/">CicekSepeti Market {">"} </a>
-      <a href="/">Istanbul {">"}</a>
+      <a href="/">Ecommerce Market {">"} </a>
+      <a href="/">London {">"}</a>
       <a href="/">
         <span className="breadcrumb__category">{activeCategory.name} </span>
       </a>
